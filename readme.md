@@ -1,5 +1,6 @@
 # Alvaro Galvez Barba
 1. Abrir un terminal.
+1. Abrir un terminal. basado
 2. Escribir "docker-compose up" y darle al "enter".
 3. Tendras que entrar a docker desktop y copiar el numero que sale debajo de database.
 4. Abres un terminal y pones docker inspect y el numero que has copiado.
