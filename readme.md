@@ -1,3 +1,4 @@
+# Alvaro Galvez Barba
 1. Abrir un terminal.
 2. Escribir "docker-compose up" y darle al "enter".
 3. Tendras que entrar a docker desktop y copiar el numero que sale debajo de database.
